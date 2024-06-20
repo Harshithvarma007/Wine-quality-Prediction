@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/N%20Ramaraju/Desktop/Projects/Wine-quality-Prediction/mlruns/0/31740b8ef20e49bc95cf559ba133fd83/artifacts
+end_time: 1718900350758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31740b8ef20e49bc95cf559ba133fd83
+run_name: trusting-snake-130
+run_uuid: 31740b8ef20e49bc95cf559ba133fd83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718900342421
+status: 3
+tags: []
+user_id: N Ramaraju
