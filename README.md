@@ -33,3 +33,5 @@ export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
 ```
 
 730335587966.dkr.ecr.us-east-1.amazonaws.com/wine_quality
+
+
